@@ -1,0 +1,40 @@
+
+body{
+    background: #3E6380;
+}
+
+.navbar{
+    background-color: #c8d4ce;
+    color: whitesmoke;
+    text-align: right;
+    margin: 200px;
+    font-size: 17px;
+    padding: 20px 16px;
+    letter-spacing: normal;
+
+    
+}
+.navbar:hover{
+    background-color: #ddd;
+    color: black;
+    
+}
+
+
+.container{
+    width: auto;
+    height: auto;
+    margin: 200px;
+    background-color: rgb(139, 133, 139);
+    flex: 1;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    text-align: center;
+
+}
+
